@@ -12,8 +12,8 @@ Download the latest release and patch Runtime-steam-x32.dll if your computer is 
 I think the gog files are named something different, Runtime-x32.dll and Runtime-x64.dll.
 
 After applying this patch you can then use
-windowed borderless gaming( http://westechsolutions.net/sites/WindowedBorderlessGaming/ ) 
-borderless gaming( https://github.com/Codeusa/Borderless-Gaming )
+- windowed borderless gaming( http://westechsolutions.net/sites/WindowedBorderlessGaming/ )
+- borderless gaming( https://github.com/Codeusa/Borderless-Gaming )
 to adjust the resolution.
 
 
