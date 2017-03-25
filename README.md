@@ -14,6 +14,7 @@ I think the gog files are named something different, Runtime-x32.dll and Runtime
 After applying this patch you can then use
 - windowed borderless gaming( http://westechsolutions.net/sites/WindowedBorderlessGaming/ )
 - borderless gaming( https://github.com/Codeusa/Borderless-Gaming )
+
 to adjust the resolution.
 
 
